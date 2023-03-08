@@ -7,3 +7,7 @@
 [submodule "5_backend"]
 	path = 5_backend
 	url = https://github.com/TennisKim/5_backend.git
+[submodule "newsubmodule/5_backend"]
+	path = newsubmodule/5_backend
+	url = https://github.com/TennisKim/5_backend.git
+	branch = master
